@@ -1,6 +1,5 @@
 # Dashboard Interativo da Produção de Petróleo no Rio de Janeiro
 
-![Dashboard Screenshot](dashboard.png)
 
 ## 📖 Visão Geral do Projeto
 
